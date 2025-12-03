@@ -1,3 +1,6 @@
+# RUN WITH PYTHON 3.12. SHOULD LOOK SOMETHING LIKE THE BELOW
+# & C:/Users/alex/AppData/Local/Microsoft/WindowsApps/python3.12.exe c:/Users/alex/Documents/Programming/python/CS436/Lab9/project/speechOpenAI.py
+
 import time
 import multiprocessing
 import speech_recognition as sr
