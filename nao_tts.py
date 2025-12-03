@@ -1,3 +1,5 @@
+# RUN WITH PYTHON 3.9. SHOULD LOOK SOMETHING LIKE THE BELOW
+#  & C:/Users/alex/AppData/Local/Programs/Python/Python39/python.exe c:/Users/alex/Documents/Programming/python/CS436/Lab9/project/nao_tts.py
 
 import time
 from naoqi import ALProxy
